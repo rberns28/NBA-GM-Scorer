@@ -1,0 +1,60 @@
+Team	General Manager	Date of hire	Active	URL
+Atlanta Hawks	Travis Schlenk	2017	Y	http://www.prosportstransactions.com/basketball/Search/SearchResults.php??Player=&Team=Hawks&PlayerMovementChkBx=yes&BeginDate=2017-5-25&EndDate=3000-1-1&submit=Search
+Boston Celtics	Danny Ainge	2003	Y	http://www.prosportstransactions.com/basketball/Search/SearchResults.php?Player=&Team=Celtics&PlayerMovementChkBx=yes&BeginDate=2003-5-9&submit=Search&start=0
+Brooklyn Nets	Sean Marks	2016	Y	http://www.prosportstransactions.com/basketball/Search/SearchResults.php?Player=&Team=Nets&PlayerMovementChkBx=yes&BeginDate=2016-2-18&EndDate=3000-1-1&submit=Search
+Charlotte Hornets	Rich Cho	2011	Y	http://www.prosportstransactions.com/basketball/Search/SearchResults.php?Player=&Team=Hornets&PlayerMovementChkBx=yes&BeginDate=2011-6-14&EndDate=2018-2-20&submit=Search
+Chicago Bulls	Gar Forman	2009	Y	http://www.prosportstransactions.com/basketball/Search/SearchResults.php?Player=&Team=Bulls&PlayerMovementChkBx=yes&BeginDate=2009-5-20&submit=Search
+Cleveland Cavaliers	Koby Altman	2017	Y	http://www.prosportstransactions.com/basketball/Search/SearchResults.php?Player=&Team=Cavaliers&PlayerMovementChkBx=yes&BeginDate=2017-7-24&submit=Search
+Dallas Mavericks	Donnie Nelson	2005	Y	http://www.prosportstransactions.com/basketball/Search/SearchResults.php?Player=&Team=Mavericks&PlayerMovementChkBx=yes&BeginDate=2002-7-1&submit=Search
+Denver Nuggets	Arturas Karnisovas	2013	Y	http://www.prosportstransactions.com/basketball/Search/SearchResults.php??Player=&Team=Nuggets&PlayerMovementChkBx=yes&BeginDate=2017-6-15&EndDate=3000-6-30&submit=Search
+Detroit Pistons	Jeff Bower	2014	Y	http://www.prosportstransactions.com/basketball/Search/SearchResults.php?Player=&Team=Pistons&PlayerMovementChkBx=yes&BeginDate=2014-6-3EndDate=3000-1-1&submit=Search
+Golden State Warriors	Bob Myers	2012	Y	http://www.prosportstransactions.com/basketball/Search/SearchResults.php??Player=&Team=Warriors&PlayerMovementChkBx=yes&BeginDate=2012-4-24&EndDate=3000-1-1&submit=Search
+Houston Rockets	Daryl Morey	2007	Y	http://www.prosportstransactions.com/basketball/Search/SearchResults.php?Player=&Team=rockets&PlayerMovementChkBx=yes&BeginDate=2007-5-6&submit=Search
+Indiana Pacers	Kevin Pritchard	2012	Y	http://www.prosportstransactions.com/basketball/Search/SearchResults.php?Player=&Team=Pacers&PlayerMovementChkBx=yes&BeginDate=2012-6-27&submit=Search
+Los Angeles Clippers	Dave Wohl	2014	Y	http://www.prosportstransactions.com/basketball/Search/SearchResults.php??Player=&Team=Clippers&PlayerMovementChkBx=yes&BeginDate=2014-6-16&EndDate=3000-1-1&submit=Search
+Los Angeles Lakers	Rob Pelinka	2017	Y	
+Memphis Grizzlies	Chris Wallace	2007	Y	http://www.prosportstransactions.com/basketball/Search/SearchResults.php?Player=&Team=Grizzlies&PlayerMovementChkBx=yes&BeginDate=2014-7-29&submit=Search
+Miami Heat	Pat Riley	2003	Y	http://www.prosportstransactions.com/basketball/Search/SearchResults.php?Player=&Team=Heat&PlayerMovementChkBx=yes&BeginDate=1995-9-2&submit=Search
+Milwaukee Bucks	Jon Horst	2017	Y	http://www.prosportstransactions.com/basketball/Search/SearchResults.php?Player=&Team=Bucks&PlayerMovementChkBx=yes&BeginDate=2017-6-16&EndDate=3000-1-1&submit=Search
+Minnesota Timberwolves	Scott Layden	2016	Y	http://www.prosportstransactions.com/basketball/Search/SearchResults.php?Player=&Team=Timberwolves&PlayerMovementChkBx=yes&BeginDate=2016-4-20&EndDate=3000-1-1&submit=Search
+New Orleans Pelicans	Dell Demps	2010	Y	http://www.prosportstransactions.com/basketball/Search/SearchResults.php?Player=&Team=Hornets&PlayerMovementChkBx=yes&BeginDate=2010-7-21&submit=Search
+New York Knicks	Steve Mills	2013	Y	http://www.prosportstransactions.com/basketball/Search/SearchResults.php?Player=&Team=Knicks&PlayerMovementChkBx=yes&BeginDate=2013-9-26&EndDate=3000-1-1&submit=Search
+Oklahoma City Thunder	Sam Presti	2007	Y	http://www.prosportstransactions.com/basketball/Search/SearchResults.php??Player=&Team=Thunder&PlayerMovementChkBx=yes&BeginDate=2007-6-7&submit=Search
+Orlando Magic	John Hammond	2017	Y	http://www.prosportstransactions.com/basketball/Search/SearchResults.php?Player=&Team=Bucks&PlayerMovementChkBx=yes&BeginDate=2008-4-11&submit=Search
+Philadelphia 76ers	Bryan Colangelo	2016	Y	http://www.prosportstransactions.com/basketball/Search/SearchResults.php?Player=&Team=76ers&PlayerMovementChkBx=yes&BeginDate=2016-4-10&EndDate=3000-1-1&submit=Search
+Phoenix Suns	Ryan McDonough	2013	Y	http://www.prosportstransactions.com/basketball/Search/SearchResults.php??Player=&Team=Suns&PlayerMovementChkBx=yes&BeginDate=2013-5-7&EndDate=3000-1-1&submit=Search
+Portland Trail Blazers	Neil Olshey	2010	Y	http://www.prosportstransactions.com/basketball/Search/SearchResults.php?Player=&Team=Clippers&PlayerMovementChkBx=yes&BeginDate=2010-3-9&EndDate=2012-6-1&submit=Search
+Sacramento Kings	Vlade Divac	2015	Y	
+San Antonio Spurs	R.C. Buford	2002	Y	http://www.prosportstransactions.com/basketball/Search/SearchResults.php?Player=&Team=spurs&PlayerMovementChkBx=yes&BeginDate=2002-7-1&submit=Search
+Toronto Raptors	Masai Ujiri	2013	Y	http://www.prosportstransactions.com/basketball/Search/SearchResults.php?Player=&Team=Raptors&PlayerMovementChkBx=yes&BeginDate=2013-5-31&submit=Search
+Utah Jazz	Dennis Lindsey	2012	Y	http://www.prosportstransactions.com/basketball/Search/SearchResults.php??Player=&Team=Jazz&PlayerMovementChkBx=yes&BeginDate=2012-8-7&EndDate=3000-1-1&submit=Search
+Washington Wizards	Ernie Grunfeld	2003	Y	http://www.prosportstransactions.com/basketball/Search/SearchResults.php?Player=&Team=Knicks&PlayerMovementChkBx=yes&BeginDate=1991-6-1&EndDate=1999-4-21&submit=Search
+Phoenix Suns	Lon Babby	2010		http://www.prosportstransactions.com/basketball/Search/SearchResults.php??Player=&Team=Suns&PlayerMovementChkBx=yes&BeginDate=2010-7-20&EndDate=2015-06-10&submit=Search
+Milwaukee Bucks	Dave Babcock	2005		http://www.prosportstransactions.com/basketball/Search/SearchResults.php??Player=&Team=Bucks&PlayerMovementChkBx=yes&BeginDate=2005-6-3&submit=Search
+Los Angeles Clippers	Pete Babcock	1984		http://www.prosportstransactions.com/basketball/Search/SearchResults.php??Player=&Team=Clippers&PlayerMovementChkBx=yes&BeginDate=1984-3-22&EndDate=1984-7-6&submit=Search
+Los Angeles Clippers	Elgin Baylor	1986		http://www.prosportstransactions.com/basketball/Search/SearchResults.php?Player=&Team=Clippers&PlayerMovementChkBx=yes&BeginDate=1986-4-1&EndDate=2008-10-7&submit=Search
+Indiana Pacers	Larry  Bird	2003		http://www.prosportstransactions.com/basketball/Search/SearchResults.php?Player=&Team=Pacers&PlayerMovementChkBx=yes&BeginDate=2003-7-11&EndDate=2012-6-26&submit=Search
+Cleveland Cavaliers	Michael Blackstone	2010		http://www.prosportstransactions.com/basketball/Search/SearchResults.php?Player=&Team=Cavaliers&PlayerMovementChkBx=yes&BeginDate=2010-9-24&submit=Search
+Phoenix Suns	Lance Blanks	2010		http://www.prosportstransactions.com/basketball/Search/SearchResults.php?Player=&Team=Suns&PlayerMovementChkBx=yes&BeginDate=2010-8-5&EndDate=2013-04-22&submit=Search
+Denver Nuggets	Vince Boryla	1984		http://www.prosportstransactions.com/basketball/Search/SearchResults.php??Player=&Team=Nuggets&PlayerMovementChkBx=yes&BeginDate=1984-5-7&EndDate=1987-10-27&submit=Search
+Charlotte Hornets	Allan Bristow	2004		http://www.prosportstransactions.com/basketball/Search/SearchResults.php??Player=&Team=Hornets&PlayerMovementChkBx=yes&BeginDate=2004-6-17&EndDate=2005-10-1&submit=Search
+Indiana Pacers	Chad Buchanan	2017		http://www.prosportstransactions.com/basketball/Search/SearchResults.php?Player=&Team=Pacers&PlayerMovementChkBx=yes&BeginDate=2017-7-1&EndDate=3000-1-1&submit=Search
+Atlanta Hawks	Mike Budenholzer	2015		http://www.prosportstransactions.com/basketball/Search/SearchResults.php?Player=&Team=Hawks&PlayerMovementChkBx=yes&BeginDate=2015-6-18&EndDate=2017-5-5&submit=Search
+Utah Jazz	Dave Checketts	1987		http://www.prosportstransactions.com/basketball/Search/SearchResults.php?Player=&Team=Jazz&PlayerMovementChkBx=yes&BeginDate=1987-6-15&EndDate=1989-6-1&submit=Search
+Philadelphia 76ers	Tony DiLeo	2012		http://www.prosportstransactions.com/basketball/Search/SearchResults.php?Player=&Team=76ers&PlayerMovementChkBx=yes&BeginDate=2012-9-21&EndDate=2013-5-11&submit=Search
+New York Knicks	Eddie Donovan	1965		http://www.prosportstransactions.com/basketball/Search/SearchResults.php?Player=&Team=Knicks&PlayerMovementChkBx=yes&BeginDate=1965-1-3&EndDate=1970-3-9&submit=Search
+Golden State Warriors	Bob Myers	2012	Y	http://www.prosportstransactions.com/basketball/Search/SearchResults.php??Player=&Team=Warriors&PlayerMovementChkBx=yes&BeginDate=2016-9-20&End%20Date=3000-1-1&submit=Search
+New York Knicks	Steve Mills	2013	Y	http://www.prosportstransactions.com/basketball/Search/SearchResults.php?Player=&Team=Knicks&PlayerMovementChkBx=yes&BeginDate=2014-3-18&EndDate=3000-1-1&submit=Search
+Philadelphia 76ers	Bryan Colangelo	2016	Y	http://www.prosportstransactions.com/basketball/Search/SearchResults.php?Player=&Team=Raptors&PlayerMovementChkBx=yes&BeginDate=2006-2-28&EndDate=2013-6-26&submit=Search
+Phoenix Suns	Ryan McDonough	2013	Y	http://www.prosportstransactions.com/basketball/Search/SearchResults.php??Player=&Team=Suns&PlayerMovementChkBx=yes&BeginDate=2015-6-10&EndDate=3000-1-1&submit=Search
+Portland Trail Blazers	Neil Olshey	2010	Y	http://www.prosportstransactions.com/basketball/Search/SearchResults.php?Player=&Team=Blazers&PlayerMovementChkBx=yes&BeginDate=2012-6-1&submit=Search
+Washington Wizards	Ernie Grunfeld	2003	Y	http://www.prosportstransactions.com/basketball/Search/SearchResults.php?Player=&Team=Bucks&PlayerMovementChkBx=yes&BeginDate=1999-8-13&EndDate=2003-6-29&submit=Search
+Los Angeles Clippers	Pete Babcock	1984		http://www.prosportstransactions.com/basketball/Search/SearchResults.php??Player=&Team=Nuggets&PlayerMovementChkBx=yes&BeginDate=1987-10-27&EndDate=1990-2-14&submit=Search
+Utah Jazz	Dave Checketts	1987		http://www.prosportstransactions.com/basketball/Search/SearchResults.php?Player=&Team=Jazz&PlayerMovementChkBx=yes&BeginDate=1988-12-9&EndDate=1989-6-1&submit=Search
+New York Knicks	Eddie Donovan	1965		http://www.prosportstransactions.com/basketball/Search/SearchResults.php?Player=&Team=Braves&PlayerMovementChkBx=yes&BeginDate=1970-3-31&EndDate=1975-3-21&submit=Search
+Philadelphia 76ers	Bryan Colangelo	2016	Y	http://www.prosportstransactions.com/basketball/Search/SearchResults.php?Player=&Team=Suns&PlayerMovementChkBx=yes&BeginDate=1999-10-4&EndDate=2006-2-27&submit=Search
+Washington Wizards	Ernie Grunfeld	2003	Y	http://www.prosportstransactions.com/basketball/Search/SearchResults.php??Player=&Team=wizards&PlayerMovementChkBx=yes&BeginDate=2003-6-30&submit=Search
+Los Angeles Clippers	Pete Babcock	1984		http://www.prosportstransactions.com/basketball/Search/SearchResults.php??Player=&Team=Hawks&PlayerMovementChkBx=yes&BeginDate=1990-2-14&EndDate=2003-4-2&submit=Search
+New York Knicks	Eddie Donovan	1965		http://www.prosportstransactions.com/basketball/Search/SearchResults.php?Player=&Team=Knicks&PlayerMovementChkBx=yes&BeginDate=1975-4-14&EndDate=1982-5-20&submit=Search
+Philadelphia 76ers	Bryan Colangelo	2016	Y	http://www.prosportstransactions.com/basketball/Search/SearchResults.php?Player=&Team=Suns&PlayerMovementChkBx=yes&BeginDate=1998-6-9&EndDate=2006-2-27&submit=Search
+Los Angeles Clippers	Pete Babcock	1984		http://www.prosportstransactions.com/basketball/Search/SearchResults.php??Player=&Team=Raptors&PlayerMovementChkBx=yes&BeginDate=2004-6-30&EndDate=2006-1-27&submit=Search
